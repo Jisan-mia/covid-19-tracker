@@ -5,6 +5,13 @@
 .card{
     margin: 0 2% !important;
 }
+.bgsecond{
+    background-color: #445175 !important;
+	color: #DFDFEF !important;
+}
+.textcolor{
+    color: #DFDFEF !important;
+}
 .infected{
     border-bottom: 10px solid rgba(0,0, 255, 0.5);
 }

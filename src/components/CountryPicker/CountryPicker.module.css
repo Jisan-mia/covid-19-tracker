@@ -1,4 +1,16 @@
 .formControl {
     width: 35%;
     margin-bottom: 30px !important;
+    color: #DFD4CF;
+}
+
+.textColor{
+    color: black;
+}
+.option{
+    color: #DFD4CF !important;
+    background-color: #445175 !important;
+    
+    
+
 }
