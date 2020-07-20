@@ -2,6 +2,7 @@
     width: 35%;
     margin-bottom: 30px !important;
     color: #DFD4CF;
+    padding: 5px 6px
 }
 
 .textColor{
@@ -10,7 +11,10 @@
 .option{
     color: #DFD4CF !important;
     background-color: #445175 !important;
-    
-    
 
+}
+@media (max-width: 770px) {
+    .formControl{
+        widht: 100%;
+    }
 }

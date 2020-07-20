@@ -1,6 +1,10 @@
-body {
+.fullcontainer {
     background-color:#3D486C;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+    padding-bottom: 15px
 }
+
 
 .container {
     display: flex;
@@ -11,7 +15,7 @@ body {
 
 .image {
     width: 370px;
-    margin-top: 50px;
+    margin-top: 30px;
     background-color: #445175;
     color: #DFDFEF;
     padding: 11px;
